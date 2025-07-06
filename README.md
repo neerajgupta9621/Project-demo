@@ -1,1 +1,1 @@
-This is a Amazon Clone Website small
+This is a small Amazon Clone Website 
